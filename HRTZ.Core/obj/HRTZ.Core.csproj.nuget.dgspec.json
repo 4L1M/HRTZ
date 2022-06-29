@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4L1M\\Downloads\\workshop15_in_class\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj": {}
+    "C:\\Users\\egorr\\RiderProjects\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4L1M\\Downloads\\workshop15_in_class\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj": {
+    "C:\\Users\\egorr\\RiderProjects\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4L1M\\Downloads\\workshop15_in_class\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj",
+        "projectUniqueName": "C:\\Users\\egorr\\RiderProjects\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj",
         "projectName": "HRTZ.Core",
-        "projectPath": "C:\\Users\\4L1M\\Downloads\\workshop15_in_class\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj",
-        "packagesPath": "C:\\Users\\4L1M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4L1M\\Downloads\\workshop15_in_class\\HRTZ\\HRTZ.Core\\obj\\",
+        "projectPath": "C:\\Users\\egorr\\RiderProjects\\HRTZ\\HRTZ.Core\\HRTZ.Core.csproj",
+        "packagesPath": "C:\\Users\\egorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\egorr\\RiderProjects\\HRTZ\\HRTZ.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\4L1M\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\egorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

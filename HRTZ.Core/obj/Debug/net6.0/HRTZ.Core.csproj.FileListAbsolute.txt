@@ -22,3 +22,15 @@ C:\Users\4L1M\Downloads\workshop15_in_class\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ
 C:\Users\4L1M\Downloads\workshop15_in_class\HRTZ\HRTZ.Core\obj\Debug\net6.0\refint\HRTZ.Core.dll
 C:\Users\4L1M\Downloads\workshop15_in_class\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.pdb
 C:\Users\4L1M\Downloads\workshop15_in_class\HRTZ\HRTZ.Core\obj\Debug\net6.0\ref\HRTZ.Core.dll
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\bin\Debug\net6.0\HRTZ.Core.deps.json
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\bin\Debug\net6.0\HRTZ.Core.dll
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\bin\Debug\net6.0\HRTZ.Core.pdb
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.csproj.AssemblyReference.cache
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.AssemblyInfoInputs.cache
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.AssemblyInfo.cs
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.csproj.CoreCompileInputs.cache
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.dll
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\refint\HRTZ.Core.dll
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\HRTZ.Core.pdb
+C:\Users\egorr\RiderProjects\HRTZ\HRTZ.Core\obj\Debug\net6.0\ref\HRTZ.Core.dll
