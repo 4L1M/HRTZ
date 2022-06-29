@@ -28,14 +28,7 @@ namespace HRTZ.Core
         public bool IsDeclined { get; set; } = false;
         public bool IsApproved { get; set; } = false;
 
-        public Candidate(string name, int age, Gender gender, string password, string login)
-        {
-            Password = password;
-            Login = login;
-            Name = name;
-            Age = age;
-            Gender = gender;
-        }
+        
         
     }
 }
